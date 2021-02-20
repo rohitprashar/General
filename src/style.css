@@ -1,0 +1,14 @@
+.mycontainer{
+    margin: 2rem;
+    height: 90%;
+    width: 90%;
+    display: flex;
+    border: 1px solid red;
+}
+.imageUrl{
+    width: 30%;
+    height: 30%;
+    margin: 1rem;
+    border: 1px solid balck;
+    border-radius: 20px;
+}
